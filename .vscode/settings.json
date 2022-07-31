@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp",
+        "ostream": "cpp",
+        "CHECK1.C": "cpp",
+        "valarray": "c",
+        "lab2-pb2": "c",
+        "chrono": "cpp",
+        "limits": "cpp"
+    },
+    "cmake.configureOnOpen": false,
+    "jupyter.jupyterServerType": "local"
+}

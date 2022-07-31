@@ -1,0 +1,1 @@
+{"name":"Local: retest","url":"/home/ajay/Desktop/coding/retest.c","tests":[{"id":1628685498708,"input":"14 2\n1110 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ajay/Desktop/coding/retest.c","group":"local","local":true}
